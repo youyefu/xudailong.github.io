@@ -47,6 +47,7 @@ excerpt: wifi光猫配置教程。
 	
 	点击lan标签-lan口工作模式
 	勾选lan1（请勿勾选lan2）
+
 ![](http://youyefu.oss-cn-beijing.aliyuncs.com/18-5-22/6677401.jpg)
 5.至此，此光猫的wifi、lan1口已经具备上网能力，lan2具备点播能力
 
